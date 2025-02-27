@@ -30,7 +30,7 @@ Conteúdo de Tópicos especiais em Engenharia da Computação
 
 - [PLOS ONE](https://journals.plos.org/plosone/) = Periódico de acesso aberto que publica pesquisas multidisciplinares, incluindo tecnologia.
 
-- [Repositórios Institucionais] = Muitas universidades mantêm repositórios open access, como o Repositório da [USP](https://repositorio.usp.br/) e o [MIT Open Access Articles](https://oatd.org/).
+- Repositórios Institucionais = Muitas universidades mantêm repositórios open access, como o Repositório da [USP](https://repositorio.usp.br/) e o [MIT Open Access Articles](https://oatd.org/).
 
 ### Como encontrar descritores na área de tecnologia:
 
